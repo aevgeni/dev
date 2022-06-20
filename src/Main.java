@@ -1,5 +1,5 @@
 package src;
 
 public class Main {
-    private int a;
+    private int ab;
 }
